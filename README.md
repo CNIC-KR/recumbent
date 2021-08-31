@@ -4,7 +4,7 @@ ___
 제작 도면은 Atomic Zombie의 웹사이트에서 직접 구입하셔야 합니다.  
 [https://www.atomiczombie.com/streetfox-tadpole-trike-diy-plan/](https://www.atomiczombie.com/streetfox-tadpole-trike-diy-plan/)  
 ___
-주의
+**주의**
 
 충남사회혁신센터는 공유된 리컴번트 자전거 설계의 안전성, 신뢰성, 내구성, 기능을 보장하지 않습니다. 또한 공유된 자전거 설계를 통해 제작된 어떠한 장치의 안성,신뢰성, 내구성, 기능에 대해서도 책임을 지지 않습니다. 공유된 설계에 기반해 장치를 제작하는 것은 전적으로 제작자의 재량에 의한 것이며 충남사회혁신센터는 공유된 정보를 활용해 내려진 결정이나 행동에 대해서 법적인 책임이 없습니다. 
 ___
