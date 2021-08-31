@@ -6,7 +6,7 @@ ___
 ___
 
 
-도면파일
+*도면파일
 용접지그 3D 파일: https://cad.onshape.com/documents/e19db32aaa2f906931428a36/w/65d13d293f960f246c17134b/e/6adec4346e6a5c44e0e556bb
 용접지그 2D 도면
 tube_notcher_AngleCalculation.f3d 
