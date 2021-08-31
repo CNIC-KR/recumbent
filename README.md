@@ -5,11 +5,11 @@ ___
 [https://www.atomiczombie.com/streetfox-tadpole-trike-diy-plan/](https://www.atomiczombie.com/streetfox-tadpole-trike-diy-plan/)  
 ___
 
-0_리컴번트 부품 목록: 제작에 필요한 재료들의 수량과 구입처가 적혀있습니다.  
-1_리컴번트 제작 가이드: 제작을 진행하신 김성수님의 제작 팁이 적혀있는 한국어 가이드입니다.  
-2_용접지그 도면: 프레임 용접에 필요한 용접지그의 2D 도면입니다.  
+**0_리컴번트 부품 목록:** 제작에 필요한 재료들의 수량과 구입처가 적혀있습니다.  
+**1_리컴번트 제작 가이드:** 제작을 진행하신 김성수님의 제작 팁이 적혀있는 한국어 가이드입니다.  
+**2_용접지그 도면:** 프레임 용접에 필요한 용접지그의 2D 도면입니다.  
 구조를 파악하기 위한 3D 파일은 아래 링크에서 확인하실 수 있습니다.  
-용접지그 3D 파일: https://cad.onshape.com/documents/e19db32aaa2f906931428a36/w/65d13d293f960f246c17134b/e/6adec4346e6a5c44e0e556bb
+**용접지그 3D 파일:** https://cad.onshape.com/documents/e19db32aaa2f906931428a36/w/65d13d293f960f246c17134b/e/6adec4346e6a5c44e0e556bb
 
 •도면파일
 용접지그 2D 도면
