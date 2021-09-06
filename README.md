@@ -1,4 +1,7 @@
 # 방치자전거 부품으로 3륜 리컴번트 만들기
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/EfHd-qzypDQ/0.jpg)](https://www.youtube.com/watch?v=EfHd-qzypDQ)
+
 ___
 본 자전거는 미국 DIY 창작자 Atomic Zombie 의 Streetfox Tadpole Trike 설계를 기반으로 제작되었습니다.  
 제작 도면은 Atomic Zombie의 웹사이트에서 직접 구입하셔야 합니다.  
