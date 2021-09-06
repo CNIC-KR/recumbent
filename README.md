@@ -1,5 +1,7 @@
 # 방치자전거 부품으로 3륜 리컴번트 만들기
 
+YouTube 비디오 링크:  
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/EfHd-qzypDQ/0.jpg)](https://www.youtube.com/watch?v=EfHd-qzypDQ)
 
 ___
